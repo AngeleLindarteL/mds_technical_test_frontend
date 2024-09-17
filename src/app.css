@@ -1,0 +1,32 @@
+header {
+	position: sticky;
+    top: 0px;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: white!important;
+	padding-top: 15px!important;
+}
+
+main {
+	background: rgb(246, 246, 246);
+    padding: 20px 5px;
+}
+
+.image-attachment-loading {
+	width: 100%;
+	justify-content: center;
+	display: flex;
+	padding: 10px;
+}
+
+.image-card {
+	margin: 10px;
+	width: 300px;
+}
+
+.image-description-wrapper {
+	display: flex; 
+	justify-content: space-between;
+}
